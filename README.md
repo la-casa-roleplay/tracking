@@ -1,4 +1,4 @@
-# tracking
+# Public tracking repo
 A public repository for La Casa roleplay to track bug reports, feature requests and feature changes.
 
 If you need to add videos to your issue please use https://streamable.com/. \
